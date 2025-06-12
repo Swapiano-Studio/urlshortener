@@ -29,7 +29,7 @@ Sebuah API RESTful berbasis Django yang memungkinkan pengguna untuk memendekkan 
 - MySQL
 - python-dotenv
 
----
+````
 
 ## 📦 Langkah Instalasi
 
