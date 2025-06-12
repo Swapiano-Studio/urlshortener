@@ -58,7 +58,6 @@ Contoh isi file `.env`:
 
 ```env
 SECRET_KEY=django-secret-key-anda
-DEBUG=True
 
 DB_NAME=nama_database
 DB_USER=user_database
