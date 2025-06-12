@@ -5,7 +5,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/source-GitHub-blue?logo=github&style=flat-square)](https://github.com/Swapiano-Studio/urlshortener)
 
-Sebuah API RESTful berbasis Django yang memungkinkan pengguna untuk memendekkan URL panjang menjadi URL pendek. Proyek ini mendukung operasi CRUD dan menyediakan statistik akses untuk setiap URL pendek. Siap digunakan di layanan cloud [Render](https://render.com) dan terhubung dengan basis data MySQL.
+Sebuah API RESTful berbasis Django yang memungkinkan pengguna untuk memendekkan URL panjang menjadi URL pendek. Proyek ini mendukung operasi CRUD dan menyediakan statistik akses untuk setiap URL pendek
 
 ---
 
